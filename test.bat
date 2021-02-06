@@ -1,7 +1,7 @@
 @echo off
 chcp 65001
 
-title Test
+title Запуск программ...
 
 cls
 

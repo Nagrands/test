@@ -1,1 +1,1 @@
-# Windows test bat-file
+# bat-file
